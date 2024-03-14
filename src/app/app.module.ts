@@ -12,6 +12,7 @@ import { EstudiosComponent } from './components/estudios/estudios.component';
 import { HysComponent } from './components/hys/hys.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { ExperienciaComponent } from './components/experiencia/experiencia.component';
+import { ProyectoComponent } from './components/proyecto/proyecto.component';
 
 
 
@@ -24,7 +25,7 @@ import { ExperienciaComponent } from './components/experiencia/experiencia.compo
     BannerComponent,
     AcercaDeComponent,
     EstudiosComponent, 
-    HysComponent, ExperienciaComponent,   
+    HysComponent, ExperienciaComponent, ProyectoComponent,   
   ],
   imports: [
     BrowserModule,
